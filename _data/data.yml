@@ -24,25 +24,25 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
-    languages:
-      - idiom: English
-        level: Fluent
+    # languages:
+    #   - idiom: English
+    #     level: Fluent
 
-      - idiom: Italian
-        level: Native
+    #   - idiom: Italian
+    #     level: Native
 
-      - idiom: German
-        level: Colloquial
+    #   - idiom: German
+    #     level: Colloquial
 
-    interests:
-      - item: Guitar
-        link:
+    # interests:
+    #   - item: Guitar
+    #     link:
 
-      - item: Basketball
-        link:
+    #   - item: Basketball
+    #     link:
 
-      - item: Biking
-        link:
+    #   - item: Biking
+    #     link:
 
 # career-profile:
 #     title: Career Profile
