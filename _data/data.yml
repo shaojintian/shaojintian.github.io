@@ -119,15 +119,15 @@ experiences:
       time: 2021 - 2022
       company: Tencent, ShenZhen
       details: |
-          - Bullet point  Developing a A/B Testing Platform which helps to refine products of PCG(eg: Tencent Vedio, Tencent News, Wesee, etc)
+          - Developing a A/B Testing Platform which helps to refine products of PCG(eg: Tencent Vedio, Tencent News, Wesee, etc)
           - Bullet point  Lead the team to investigate and analyze performance issues  with benchmarks; 
 
     - role: Software Engineer Intern
       time: 2020.04 - 2020.07
       company: DiDi, Beijing
       details: |
-       - Bullet point Maintained Mobile Cloud Module: solve cross-originproblem.
-       - Bullet point Added observability facilities toDiDiFarm analyze bottlenecks and implemented a tool called performance monitor, which reduced the  tail latency by 10.
+       -  Maintained Mobile Cloud Module: solve cross-originproblem.
+       -  Added observability facilities toDiDiFarm analyze bottlenecks and implemented a tool called performance monitor, which reduced the  tail latency by 10.
 
 
     #- role: UI Developer
@@ -236,5 +236,5 @@ skills:
       - name: C/C++
         level: 75%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+# footer: >
+#     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
