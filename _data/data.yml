@@ -114,33 +114,25 @@ sidebar:
      
       
 
-#experiences:
-    #- role: Lead Developer
-      #time: 2015 - Present
-      #company: Startup Hubs, San Francisco
-      #details: |
-        #Describe your role here lorem ipsum dolor sit amet, consectetuer
-        #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        #Cum sociis natoque penatibus et magnis dis parturient montes,
-        #nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        #pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        #enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        #error sit voluptatem accusantium doloremque laudantium, totam rem
-        #aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        #architecto beatae vitae dicta sunt explicabo.
+working experiences:
+    - role: Backend Developer
+      time: 2021 - 2022
+      company: Tencent, ShenZhen
+      details: |
+        Developing a A/B Testing Platform which helps to refine products of PCG(eg: Tencent Vedio, Tencent News, Wesee, etc)
+        Lead the team to investigate and analyze performance issues  with benchmarks; fixed bugs and proposed strategies which improved the system throughput by 2x in a 3-month period.
+        Greatly improved TAB development experience by initiating the developer ecosystem, including streaming system dashboard, developers’ tool ,and a benchmark set-up tool based on . 
+        They are now indispensable parts of everyone’s development process.
 
-          #- Bullet point
-          #- Bullet point
+          - Bullet point
+          - Bullet point
 
-    #- role: Senior Software Engineer
-      #time: 2014 - 2015
-      #company: Google, London
-      #details: |
-        #Describe your role here lorem ipsum dolor sit amet, consectetuer
-        #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        #Cum sociis natoque penatibus et magnis dis parturient montes,
-        #nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        #pellentesque eu, pretium quis, sem.
+    - role: Software Engineer Intern
+      time: 2020.04 - 2020.07
+      company: DiDi, Beijing
+      details: |
+        Maintained Mobile Cloud Module: solve cross-originproblem.
+        Added observability facilities toDiDiFarm analyze bottlenecks and implemented a tool called performance monitor, which reduced the  tail latency by 10.
 
           #- Bullet point
           #- Bullet point
