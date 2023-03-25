@@ -7,19 +7,19 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Biagio Brattoli
-    tagline: Computer Vision and Machine Learning researcher
+    name: Jintian Shao
+    tagline: system researcher
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: biagio.brattoli@gmail.com
-    phone: 
-    website: bbrattoli.github.io/publications/ #do not add http://
-    linkedin: biagiobrattoli
-    github: bbrattoli
+    email: shaojintian99@gmail.com
+    phone: +86-16601285900
+    website: shaojintian.github.io/publications/ #do not add http://
+    linkedin: shaojintian
+    github: shaojintian
     gitlab:
     bitbucket:
-    twitter: '@BiagioBrattoli'
+    twitter: '@enzoshao'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -44,167 +44,75 @@ sidebar:
       - item: Biking
         link:
 
-career-profile:
-    title: Career Profile
-    summary: |
-      AI research scientist in the oncology department at Lunit. Prior applied scientist at AWS.
-      After a double master degree at KTH (Stochkolm, Sweden) and Politecnico di Torino (Torino, Italy), 
-      I pursued my passion for Computer Vision as researcher in the Heidelberg Collaboratory for Image processing.
-      In 2019 I successfully completed an internship at AWS in Pasadena under the supervision of Prof. Pietro Perona.
+# career-profile:
+#     title: Career Profile
+#     summary: |
+#       AI research scientist in the oncology department at Lunit. Prior applied scientist at AWS.
+#       After a double master degree at KTH (Stochkolm, Sweden) and Politecnico di Torino (Torino, Italy), 
+#       I pursued my passion for Computer Vision as researcher in the Heidelberg Collaboratory for Image processing.
+#       In 2019 I successfully completed an internship at AWS in Pasadena under the supervision of Prof. Pietro Perona.
 
-news:
-    title: News
-    intro: |
+# news:
+#     title: News
+#     intro: |
         
     
-    posts:
-        - time: January 2022
-          title: Begin my journey to fight cancer using AI with Lunit in the oncology department
+#     posts:
+#         - time: January 2022
+#           title: Begin my journey to fight cancer using AI with Lunit in the oncology department
           
-        - time: April 2021
-          title: Our new paper (uBAM) has officially been published at Nature Machine Intelligece!
+#         - time: April 2021
+#           title: Our new paper (uBAM) has officially been published at Nature Machine Intelligece!
         
-        - time: December 2020
-          title: Defending my PhD Thesis. Magna cum Laude
+#         - time: December 2020
+#           title: Defending my PhD Thesis. Magna cum Laude
 
-        - time: October 2020
-          title: Starting a new position as Applied Scientist with AWS
+#         - time: October 2020
+#           title: Starting a new position as Applied Scientist with AWS
 
-        - time: June 2020
-          title: Outstanding Reviewer at CVPR 2020
+#         - time: June 2020
+#           title: Outstanding Reviewer at CVPR 2020
 
-        - time: June 2020
-          title: Article on Amazon Science https://www.amazon.science/blog/video-classifiers-learn-to-recognize-actions-they've-never-seen
+#         - time: June 2020
+#           title: Article on Amazon Science https://www.amazon.science/blog/video-classifiers-learn-to-recognize-actions-they've-never-seen
         
-        - time: February 2020
-          title: The work done during my internship was accepted as publication at CVPR 2020
+#         - time: February 2020
+#           title: The work done during my internship was accepted as publication at CVPR 2020
           
-        - time: July 2019
-          title: Begin Amazon AWS intership with P.Perona in Pasadena, CA
+#         - time: July 2019
+#           title: Begin Amazon AWS intership with P.Perona in Pasadena, CA
           
-        - time: July 2019
-          title: One paper accepted at ICCV19
+#         - time: July 2019
+#           title: One paper accepted at ICCV19
           
-        - time: January 2019
-          title: Selected as reviewer for ICCV19
+#         - time: January 2019
+#           title: Selected as reviewer for ICCV19
         
-        - time: December 2018
-          title: Selected as reviewer for CVPR19
+#         - time: December 2018
+#           title: Selected as reviewer for CVPR19
         
-        - time: Sptember 2018
-          title: Two papers accepted as orals at GCPR (German Conference for Patter Recognition) as a result of two master thesis which I supervised
+#         - time: Sptember 2018
+#           title: Two papers accepted as orals at GCPR (German Conference for Patter Recognition) as a result of two master thesis which I supervised
         
-        - time: July 2018
-          title: Attending the International Summer School for Computer Vision (ICVSS) in Sicily, Italy
+#         - time: July 2018
+#           title: Attending the International Summer School for Computer Vision (ICVSS) in Sicily, Italy
         
-        - time: 2018
-          title: Paper accepted as poster at ECCV18 in Munich, Germany
+#         - time: 2018
+#           title: Paper accepted as poster at ECCV18 in Munich, Germany
         
-        - time: 2017
-          title: Attending the Workshop on Behavior Analysis (BAFA, Better Analysis Fewer Animals) in Utrecht, Netherlands
+#         - time: 2017
+#           title: Attending the Workshop on Behavior Analysis (BAFA, Better Analysis Fewer Animals) in Utrecht, Netherlands
         
-        - time: 2017
-          title: Paper accepted as poster at CVPR17 in Honolulu, Hawaii
+#         - time: 2017
+#           title: Paper accepted as poster at CVPR17 in Honolulu, Hawaii
 
-education:
-    - degree: Research Scientist at Lunit
-      university: Germany (Remote)
-      time: 2022 Jan - current
-      details: |
+# education:
+#     - degree: Bachelor 
+#       university: Hunan university
+#       time: 2017 Sep - 2021 July
+#       details: |
      
-    - degree: Applied Scientists at AWS
-      university: Germany (Remote)
-      time: 2020 Oct - 2021 Dec
-      details: |
       
-    - degree: Applied Scientists Intern at AWS
-      university: P. Perona, Pasadena, CA, USA
-      time: 2019 July - Dec
-      details: |
-     
-    - degree: PhD in Computer vision and Machine learning
-      university: Heidelberg University
-      time: 2015 - 2020
-      details: |
-
-    - degree: Internship (Master Thesis)
-      university: Tobii
-      time: 2014 - 2015
-      details: |
-
-    - degree: Master Degree
-      university: KTH (Stockholm, Sweden)
-      time: 2013 - 2015
-      details: |
-    
-    - degree: Master Degree
-      university: Politecnico di Torino (Torino, Italy)
-      time: 2012 - 2015
-      details: |
-    
-    - degree: Bachelor Degree
-      university: Politecnico di Torino (Torino, Italy)
-      time: 2009 - 2012
-      details: |
-
-
-educationcomplete:
-    - degree: Research Scientist full-time at Lunit
-      university: Germany (Remote)
-      time: 2022 Jan - current
-      details: |
-      
-    - degree: Applied Scientist full-time at AWS
-      university: Germany (Remote)
-      time: 2020 Oct - 2021 Dec
-      details: |
-      
-    - degree: Applied Scientists Intern at AWS
-      university: P. Perona, Pasadena, CA, USA
-      time: 2019 July - Dec
-      details: |
-
-    - degree: PhD in Computer vision and Machine learning
-      university: Heidelberg University
-      time: 2015 - 2020
-      details: |
-        Unsupervised deep learning for automatic behavior analysis
-
-          - Unsupervised learning
-          - Representaion learning
-          - Automatic Behavior Analysis
-
-    - degree: Internship (Master Thesis)
-      university: Tobii
-      time: 2014 - 2015
-      details: |
-        Master thesis topic Hand gesture classification by Deep learning using infrared camera 
-
-          - Deep learning
-          - Hand Gesture
-
-    - degree: Master Degree
-      university: KTH (Stockholm, Sweden)
-      time: 2013 - 2015
-      details: |
-        Master degree in Computer Science and Artificial Intelligence
-
-          - Artificial Intelligence
-          - Machine Learning
-          - Computer Vision
-    
-    - degree: Master Degree
-      university: Politecnico di Torino (Torino, Italy)
-      time: 2012 - 2015
-      details: |
-        Master degree in Software Engineering
-    
-    - degree: Bachelor Degree
-      university: Politecnico di Torino (Torino, Italy)
-      time: 2009 - 2012
-      details: |
-        Master degree in Computer Engineering
-
 
 #experiences:
     #- role: Lead Developer
@@ -284,45 +192,45 @@ publications:
       
 
     papers:
-      - title: "Unsupervised behaviour analysis and magnification (uBAM) using deep learning"
-        authors: B. Brattoli*, U. Büchler*, M. Dorkenwald, P. Reiser, F. Helmchen, A. S. Wahl, B. Ommer
-        conference: Nature Machine Intelligence, 2021
+      # - title: "Unsupervised behaviour analysis and magnification (uBAM) using deep learning"
+      #   authors: B. Brattoli*, U. Büchler*, M. Dorkenwald, P. Reiser, F. Helmchen, A. S. Wahl, B. Ommer
+      #   conference: Nature Machine Intelligence, 2021
       
-      - title: "Sharing Matters for Generalization in Deep Metric Learning"
-        authors: T. Milbich*, K. Roth*, B. Brattoli, B. Ommer
-        conference: tPAMI, 2020
+      # - title: "Sharing Matters for Generalization in Deep Metric Learning"
+      #   authors: T. Milbich*, K. Roth*, B. Brattoli, B. Ommer
+      #   conference: tPAMI, 2020
         
-      - title: "Rethinking Zero-shot Video Classification: End-to-end Training for Realistic Applications"
-        authors: B. Brattoli, J. Tighe, F. Zhdanov, P. Perona, K. Chalupka
-        conference: CVPR, 2020
+      # - title: "Rethinking Zero-shot Video Classification: End-to-end Training for Realistic Applications"
+      #   authors: B. Brattoli, J. Tighe, F. Zhdanov, P. Perona, K. Chalupka
+      #   conference: CVPR, 2020
         
-      - title: "MIC: Mining Interclass Characteristics for Improved Metric Learning"
-        authors: B. Brattoli*, K. Roth*, B. Ommer
-        conference: ICCV, 2019
+      # - title: "MIC: Mining Interclass Characteristics for Improved Metric Learning"
+      #   authors: B. Brattoli*, K. Roth*, B. Ommer
+      #   conference: ICCV, 2019
 
-      - title: "Improving Spatiotemporal Self-Supervision by Deep Reinforcement Learning"
-        authors: B. Brattoli*, U. Buechler*, B. Ommer
-        conference: ECCV, 2018
+      # - title: "Improving Spatiotemporal Self-Supervision by Deep Reinforcement Learning"
+      #   authors: B. Brattoli*, U. Buechler*, B. Ommer
+      #   conference: ECCV, 2018
 
-      - title: "LSTM Self-Supervision for Detailed Behavior Analysis"
-        authors: B. Brattoli*, U. Buechler*, A. Wahl, M. Schwab, B. Ommer
-        conference: CVPR, 2017
+      # - title: "LSTM Self-Supervision for Detailed Behavior Analysis"
+      #   authors: B. Brattoli*, U. Buechler*, A. Wahl, M. Schwab, B. Ommer
+      #   conference: CVPR, 2017
 
-      - title: "Cross and Learn: Cross-Modal Self-Supervision"
-        authors: N. Sayer, B. Brattoli, B. Ommer
-        conference: oral at GCPR, 2018
+      # - title: "Cross and Learn: Cross-Modal Self-Supervision"
+      #   authors: N. Sayer, B. Brattoli, B. Ommer
+      #   conference: oral at GCPR, 2018
 
-      - title: "X-GAN: Improving Generative Adversarial Networks with ConveX Combinations"
-        authors: O. Blum, B. Brattoli, B. Ommer
-        conference: oral at GCPR, 2018
+      # - title: "X-GAN: Improving Generative Adversarial Networks with ConveX Combinations"
+      #   authors: O. Blum, B. Brattoli, B. Ommer
+      #   conference: oral at GCPR, 2018
 
-      - title: "Optogenetically stimulating intact rat corticospinal tract post-stroke restores motor control through regionalized functional circuit formation"
-        authors: A. S. Wahl*, U. Büchler*, A. Brändli, B. Brattoli, S. Musall, H. Kasper, B. V. Ineichen, F. Helmchen, B. Ommer & M. E. Schwab
-        conference: "Nature Communications, 2017"
+      # - title: "Optogenetically stimulating intact rat corticospinal tract post-stroke restores motor control through regionalized functional circuit formation"
+      #   authors: A. S. Wahl*, U. Büchler*, A. Brändli, B. Brattoli, S. Musall, H. Kasper, B. V. Ineichen, F. Helmchen, B. Ommer & M. E. Schwab
+      #   conference: "Nature Communications, 2017"
         
-      - title: "Early reduced behavioral activity induced by large strokes affects the efficiency of enriched environment in rats"
-        authors: A. S. Wahl, Erlebach, E, B. Brattoli, U. Büchler, J. Kaiser, V.B. Ineichen, A.C. Mosberger, S. Schneeberger, S. Imobersteg, M. Wieckhorst, M. Stirn, A. Schroeter, B. Ommer, M.E. Schwab
-        conference: "Journal of Cerebral Blood Flow & Metabolism, 2018"
+      # - title: "Early reduced behavioral activity induced by large strokes affects the efficiency of enriched environment in rats"
+      #   authors: A. S. Wahl, Erlebach, E, B. Brattoli, U. Büchler, J. Kaiser, V.B. Ineichen, A.C. Mosberger, S. Schneeberger, S. Imobersteg, M. Wieckhorst, M. Stirn, A. Schroeter, B. Ommer, M.E. Schwab
+      #   conference: "Journal of Cerebral Blood Flow & Metabolism, 2018"
 
 skills:
     title: Skills &amp; Proficiency
@@ -334,14 +242,11 @@ skills:
       - name: PyTorch
         level: 90%
 
-      - name: Tensorflow
+      - name: Golang
         level: 60%
 
       - name: Caffe
         level: 80%
-
-      - name: Matlab
-        level: 90%
 
       - name: C/C++
         level: 75%
