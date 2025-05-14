@@ -44,13 +44,13 @@ sidebar:
     #   - item: Biking
     #     link:
 
-# career-profile:
-#     title: Career Profile
-#     summary: |
-#       AI research scientist in the oncology department at Lunit. Prior applied scientist at AWS.
-#       After a double master degree at KTH (Stochkolm, Sweden) and Politecnico di Torino (Torino, Italy), 
-#       I pursued my passion for Computer Vision as researcher in the Heidelberg Collaboratory for Image processing.
-#       In 2019 I successfully completed an internship at AWS in Pasadena under the supervision of Prof. Pietro Perona.
+career-profile:
+    title: Career Profile
+    summary: |
+      AI research scientist in the oncology department at Lunit. Prior applied scientist at AWS.
+      After a double master degree at KTH (Stochkolm, Sweden) and Politecnico di Torino (Torino, Italy), 
+      I pursued my passion for Computer Vision as researcher in the Heidelberg Collaboratory for Image processing.
+      In 2019 I successfully completed an internship at AWS in Pasadena under the supervision of Prof. Pietro Perona.
 
 # news:
 #     title: News
@@ -171,51 +171,51 @@ experiences:
         #link: "#"
         #tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-# publications:
-#     title: Publications
-#     intro: |
+publications:
+    title: Publications
+    intro: |
       
 
-#     papers:
-#       # - title: "Unsupervised behaviour analysis and magnification (uBAM) using deep learning"
-#       #   authors: B. Brattoli*, U. Büchler*, M. Dorkenwald, P. Reiser, F. Helmchen, A. S. Wahl, B. Ommer
-#       #   conference: Nature Machine Intelligence, 2021
+    papers:
+      - title: "Unsupervised behaviour analysis and magnification (uBAM) using deep learning"
+        authors: B. Brattoli*, U. Büchler*, M. Dorkenwald, P. Reiser, F. Helmchen, A. S. Wahl, B. Ommer
+        conference: Nature Machine Intelligence, 2021
       
-#       # - title: "Sharing Matters for Generalization in Deep Metric Learning"
-#       #   authors: T. Milbich*, K. Roth*, B. Brattoli, B. Ommer
-#       #   conference: tPAMI, 2020
+      - title: "Sharing Matters for Generalization in Deep Metric Learning"
+        authors: T. Milbich*, K. Roth*, B. Brattoli, B. Ommer
+        conference: tPAMI, 2020
         
-#       # - title: "Rethinking Zero-shot Video Classification: End-to-end Training for Realistic Applications"
-#       #   authors: B. Brattoli, J. Tighe, F. Zhdanov, P. Perona, K. Chalupka
-#       #   conference: CVPR, 2020
+      - title: "Rethinking Zero-shot Video Classification: End-to-end Training for Realistic Applications"
+        authors: B. Brattoli, J. Tighe, F. Zhdanov, P. Perona, K. Chalupka
+        conference: CVPR, 2020
         
-#       # - title: "MIC: Mining Interclass Characteristics for Improved Metric Learning"
-#       #   authors: B. Brattoli*, K. Roth*, B. Ommer
-#       #   conference: ICCV, 2019
+      - title: "MIC: Mining Interclass Characteristics for Improved Metric Learning"
+        authors: B. Brattoli*, K. Roth*, B. Ommer
+        conference: ICCV, 2019
 
-#       # - title: "Improving Spatiotemporal Self-Supervision by Deep Reinforcement Learning"
-#       #   authors: B. Brattoli*, U. Buechler*, B. Ommer
-#       #   conference: ECCV, 2018
+      - title: "Improving Spatiotemporal Self-Supervision by Deep Reinforcement Learning"
+        authors: B. Brattoli*, U. Buechler*, B. Ommer
+        conference: ECCV, 2018
 
-#       # - title: "LSTM Self-Supervision for Detailed Behavior Analysis"
-#       #   authors: B. Brattoli*, U. Buechler*, A. Wahl, M. Schwab, B. Ommer
-#       #   conference: CVPR, 2017
+      - title: "LSTM Self-Supervision for Detailed Behavior Analysis"
+        authors: B. Brattoli*, U. Buechler*, A. Wahl, M. Schwab, B. Ommer
+        conference: CVPR, 2017
 
-#       # - title: "Cross and Learn: Cross-Modal Self-Supervision"
-#       #   authors: N. Sayer, B. Brattoli, B. Ommer
-#       #   conference: oral at GCPR, 2018
+      - title: "Cross and Learn: Cross-Modal Self-Supervision"
+        authors: N. Sayer, B. Brattoli, B. Ommer
+        conference: oral at GCPR, 2018
 
-#       # - title: "X-GAN: Improving Generative Adversarial Networks with ConveX Combinations"
-#       #   authors: O. Blum, B. Brattoli, B. Ommer
-#       #   conference: oral at GCPR, 2018
+      - title: "X-GAN: Improving Generative Adversarial Networks with ConveX Combinations"
+        authors: O. Blum, B. Brattoli, B. Ommer
+        conference: oral at GCPR, 2018
 
-#       # - title: "Optogenetically stimulating intact rat corticospinal tract post-stroke restores motor control through regionalized functional circuit formation"
-#       #   authors: A. S. Wahl*, U. Büchler*, A. Brändli, B. Brattoli, S. Musall, H. Kasper, B. V. Ineichen, F. Helmchen, B. Ommer & M. E. Schwab
-#       #   conference: "Nature Communications, 2017"
+      - title: "Optogenetically stimulating intact rat corticospinal tract post-stroke restores motor control through regionalized functional circuit formation"
+        authors: A. S. Wahl*, U. Büchler*, A. Brändli, B. Brattoli, S. Musall, H. Kasper, B. V. Ineichen, F. Helmchen, B. Ommer & M. E. Schwab
+        conference: "Nature Communications, 2017"
         
-#       # - title: "Early reduced behavioral activity induced by large strokes affects the efficiency of enriched environment in rats"
-#       #   authors: A. S. Wahl, Erlebach, E, B. Brattoli, U. Büchler, J. Kaiser, V.B. Ineichen, A.C. Mosberger, S. Schneeberger, S. Imobersteg, M. Wieckhorst, M. Stirn, A. Schroeter, B. Ommer, M.E. Schwab
-#       #   conference: "Journal of Cerebral Blood Flow & Metabolism, 2018"
+      - title: "Early reduced behavioral activity induced by large strokes affects the efficiency of enriched environment in rats"
+        authors: A. S. Wahl, Erlebach, E, B. Brattoli, U. Büchler, J. Kaiser, V.B. Ineichen, A.C. Mosberger, S. Schneeberger, S. Imobersteg, M. Wieckhorst, M. Stirn, A. Schroeter, B. Ommer, M.E. Schwab
+        conference: "Journal of Cerebral Blood Flow & Metabolism, 2018"
 
 skills:
     title: Skills &amp; Proficiency
