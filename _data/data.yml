@@ -47,10 +47,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      AI research scientist in the oncology department at Lunit. Prior applied scientist at AWS.
-      After a double master degree at KTH (Stochkolm, Sweden) and Politecnico di Torino (Torino, Italy), 
-      I pursued my passion for Computer Vision as researcher in the Heidelberg Collaboratory for Image processing.
-      In 2019 I successfully completed an internship at AWS in Pasadena under the supervision of Prof. Pietro Perona.
+      AI phd candidate in the Southern University of Science and Technology of China
 
 # news:
 #     title: News
@@ -106,17 +103,19 @@ career-profile:
 #         - time: 2017
 #           title: Paper accepted as poster at CVPR17 in Honolulu, Hawaii
 
-# education:
-#     - degree: Bachelor 
-#       university: Hunan university
-#       time: 2017 Sep - 2021 July
-#       details: |
+education:
+    - degree: Bachelor 
+      university: Hunan university
+      time: 2017 Sep - 2021 July
+      details: |
+        - Minor in Computer Science and Technology
+        - Major in Electrical Engineering and Automation
      
       
 
 experiences:
-    - role: Backend Developer
-      time: 2021 - 2022
+    - role: Algorithm Engineer 
+      time: 2020.10 - 2022.01
       company: Tencent, ShenZhen
       details: |
           - Developing a A/B Testing Platform which helps to refine products of PCG(eg: Tencent Vedio, Tencent News, Wesee, etc)
@@ -235,6 +234,9 @@ skills:
 
       - name: C/C++
         level: 75%
+
+awards:
+    title: Awards &amp; Honors
 
 # footer: >
 #     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
