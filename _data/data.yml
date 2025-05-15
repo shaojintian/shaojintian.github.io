@@ -8,13 +8,13 @@ sidebar:
 
     # Profile information
     name: Jintian Shao
-    tagline: system researcher
+    tagline: AI Researcher
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: shaojintian99@gmail.com
     phone: +86-16601285900
-    website: shaojintian.github.io/publications/ #do not add http://
+    website: scholar.google.com/shaojintian #do not add http://
     linkedin: jintianshao
     github: shaojintian
     gitlab:
@@ -176,45 +176,45 @@ publications:
       
 
     papers:
-      - title: "Unsupervised behaviour analysis and magnification (uBAM) using deep learning"
-        authors: B. Brattoli*, U. Büchler*, M. Dorkenwald, P. Reiser, F. Helmchen, A. S. Wahl, B. Ommer
-        conference: Nature Machine Intelligence, 2021
+      - title: "VQ-logits:Compressing the Output Bottleneck of Large Language Models via Vector Quantized Logits"
+        authors: Jintian Shao*, Hongyi Huang, Jiayi Wu, Beiwen Zhang, ZhiYu Wu, You Shan, MingKai Zheng†
+        conference: EMNLP, 2025
       
-      - title: "Sharing Matters for Generalization in Deep Metric Learning"
-        authors: T. Milbich*, K. Roth*, B. Brattoli, B. Ommer
-        conference: tPAMI, 2020
+      - title: "ComplexFormer: Disruptively Advancing Transformer Inference Ability via Head-Specific Complex Vector Attention"
+        authors: Jintian Shao*, Hongyi Huang, Jiayi Wu, Beiwen Zhang, You Shan, MingKai Zheng†
+        conference: EMNLP, 2025
         
       - title: "Rethinking Zero-shot Video Classification: End-to-end Training for Realistic Applications"
-        authors: B. Brattoli, J. Tighe, F. Zhdanov, P. Perona, K. Chalupka
+        authors: Jintian Shao*, Hongyi Huang, Jiayi Wu, Beiwen Zhang, ZhiYu Wu, You Shan, MingKai Zheng†
         conference: CVPR, 2020
         
-      - title: "MIC: Mining Interclass Characteristics for Improved Metric Learning"
-        authors: B. Brattoli*, K. Roth*, B. Ommer
-        conference: ICCV, 2019
+      # - title: "MIC: Mining Interclass Characteristics for Improved Metric Learning"
+      #   authors: B. Brattoli*, K. Roth*, B. Ommer
+      #   conference: ICCV, 2019
 
-      - title: "Improving Spatiotemporal Self-Supervision by Deep Reinforcement Learning"
-        authors: B. Brattoli*, U. Buechler*, B. Ommer
-        conference: ECCV, 2018
+      # - title: "Improving Spatiotemporal Self-Supervision by Deep Reinforcement Learning"
+      #   authors: B. Brattoli*, U. Buechler*, B. Ommer
+      #   conference: ECCV, 2018
 
-      - title: "LSTM Self-Supervision for Detailed Behavior Analysis"
-        authors: B. Brattoli*, U. Buechler*, A. Wahl, M. Schwab, B. Ommer
-        conference: CVPR, 2017
+      # - title: "LSTM Self-Supervision for Detailed Behavior Analysis"
+      #   authors: B. Brattoli*, U. Buechler*, A. Wahl, M. Schwab, B. Ommer
+      #   conference: CVPR, 2017
 
-      - title: "Cross and Learn: Cross-Modal Self-Supervision"
-        authors: N. Sayer, B. Brattoli, B. Ommer
-        conference: oral at GCPR, 2018
+      # - title: "Cross and Learn: Cross-Modal Self-Supervision"
+      #   authors: N. Sayer, B. Brattoli, B. Ommer
+      #   conference: oral at GCPR, 2018
 
-      - title: "X-GAN: Improving Generative Adversarial Networks with ConveX Combinations"
-        authors: O. Blum, B. Brattoli, B. Ommer
-        conference: oral at GCPR, 2018
+      # - title: "X-GAN: Improving Generative Adversarial Networks with ConveX Combinations"
+      #   authors: O. Blum, B. Brattoli, B. Ommer
+      #   conference: oral at GCPR, 2018
 
-      - title: "Optogenetically stimulating intact rat corticospinal tract post-stroke restores motor control through regionalized functional circuit formation"
-        authors: A. S. Wahl*, U. Büchler*, A. Brändli, B. Brattoli, S. Musall, H. Kasper, B. V. Ineichen, F. Helmchen, B. Ommer & M. E. Schwab
-        conference: "Nature Communications, 2017"
+      # - title: "Optogenetically stimulating intact rat corticospinal tract post-stroke restores motor control through regionalized functional circuit formation"
+      #   authors: A. S. Wahl*, U. Büchler*, A. Brändli, B. Brattoli, S. Musall, H. Kasper, B. V. Ineichen, F. Helmchen, B. Ommer & M. E. Schwab
+      #   conference: "Nature Communications, 2017"
         
-      - title: "Early reduced behavioral activity induced by large strokes affects the efficiency of enriched environment in rats"
-        authors: A. S. Wahl, Erlebach, E, B. Brattoli, U. Büchler, J. Kaiser, V.B. Ineichen, A.C. Mosberger, S. Schneeberger, S. Imobersteg, M. Wieckhorst, M. Stirn, A. Schroeter, B. Ommer, M.E. Schwab
-        conference: "Journal of Cerebral Blood Flow & Metabolism, 2018"
+      # - title: "Early reduced behavioral activity induced by large strokes affects the efficiency of enriched environment in rats"
+      #   authors: A. S. Wahl, Erlebach, E, B. Brattoli, U. Büchler, J. Kaiser, V.B. Ineichen, A.C. Mosberger, S. Schneeberger, S. Imobersteg, M. Wieckhorst, M. Stirn, A. Schroeter, B. Ommer, M.E. Schwab
+      #   conference: "Journal of Cerebral Blood Flow & Metabolism, 2018"
 
 skills:
     title: Skills &amp; Proficiency
