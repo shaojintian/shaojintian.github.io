@@ -178,15 +178,15 @@ publications:
     papers:
       - title: "VQ-logits:Compressing the Output Bottleneck of Large Language Models via Vector Quantized Logits"
         authors: Jintian Shao*, Hongyi Huang, Jiayi Wu, Beiwen Zhang, ZhiYu Wu, You Shan, MingKai Zheng†
-        conference: EMNLP, 2025
+        conference: EMNLP Under Review , 2025
       
       - title: "ComplexFormer: Disruptively Advancing Transformer Inference Ability via Head-Specific Complex Vector Attention"
         authors: Jintian Shao*, Hongyi Huang, Jiayi Wu, Beiwen Zhang, You Shan, MingKai Zheng†
-        conference: EMNLP, 2025
+        conference: EMNLP Under Review, 2025
         
-      - title: "Rethinking Zero-shot Video Classification: End-to-end Training for Realistic Applications"
-        authors: Jintian Shao*, Hongyi Huang, Jiayi Wu, Beiwen Zhang, ZhiYu Wu, You Shan, MingKai Zheng†
-        conference: CVPR, 2020
+      # - title: "Rethinking Zero-shot Video Classification: End-to-end Training for Realistic Applications"
+      #   authors: Jintian Shao*, Hongyi Huang, Jiayi Wu, Beiwen Zhang, ZhiYu Wu, You Shan, MingKai Zheng†
+      #   conference: CVPR, 2020
         
       # - title: "MIC: Mining Interclass Characteristics for Improved Metric Learning"
       #   authors: B. Brattoli*, K. Roth*, B. Ommer
