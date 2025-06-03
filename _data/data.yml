@@ -14,12 +14,12 @@ sidebar:
     # Sidebar links
     email: shaojintian99@gmail.com
     phone: +86-16601285900
-    website: scholar.google.com/shaojintian #do not add http://
+    website: scholar.google.com/citations?hl=en&user=oMStvrwAAAAJ #do not add http://
     linkedin: jintianshao
     github: shaojintian
     gitlab:
     bitbucket:
-    twitter: '@enzoshao'
+    twitter: '@angelheavenzzz'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -47,8 +47,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      AI phd candidate in the Southern University of Science and Technology of China
-
+      AI phd candidate in the Southern University of Science and Technology of China.
+      Under the supervision of Professor <a href="https://mingkai-zheng.github.io/" target="_blank" rel="nofollow">Mingkai Zheng</a>. My research primarily focuses on the Large Language Models, Efficient Deep Learning, Multimodal Large Language Model.
+      In the field of large language models, my work spans several key areas: optimizing attention mechanism, optimizing cross-entropy like objective function, optimizing reasoning ability for complex downstream tasks like Math Solving, Code Generation.
+      In the field of efficient deep learning, my work spans several key areas: model compression
+      In the field of multimodal large language model, my work spans several key areas: multimodal alignment and fusion, hallucination mitigation
 # news:
 #     title: News
 #     intro: |
@@ -177,20 +180,20 @@ publications:
 
     papers:
       - title: "VQ-logits:Compressing the Output Bottleneck of Large Language Models via Vector Quantized Logits"
-        authors: Jintian Shao*, Hongyi Huang, Jiayi Wu, Beiwen Zhang, ZhiYu Wu, You Shan, MingKai Zheng†
-        conference: EMNLP Under Review , 2025
+        authors: Jintian Shao*, Hongyi Huang, Yiming Cheng, Jiayi Wu, Beiwen Zhang, ZhiYu Wu, You Shan, MingKai Zheng†
+        conference: AAAI26 Under Review , 2025
       
       - title: "ComplexFormer: Disruptively Advancing Transformer Inference Ability via Head-Specific Complex Vector Attention"
-        authors: Jintian Shao*, Hongyi Huang, Jiayi Wu, Beiwen Zhang, You Shan, MingKai Zheng†
-        conference: EMNLP Under Review, 2025
+        authors: Jintian Shao*, Hongyi Huang, Yiming Cheng, Jiayi Wu, Beiwen Zhang, You Shan, MingKai Zheng†
+        conference: AAAI26 Under Review, 2025
         
-      # - title: "Rethinking Zero-shot Video Classification: End-to-end Training for Realistic Applications"
-      #   authors: Jintian Shao*, Hongyi Huang, Jiayi Wu, Beiwen Zhang, ZhiYu Wu, You Shan, MingKai Zheng†
-      #   conference: CVPR, 2020
+      - title: "Towards Analyzing and Understanding the Limitations of VAPO: A Theoretical Perspective"
+        authors: Jintian Shao*, Yiming Cheng
+        conference: airxiv preprint
         
-      # - title: "MIC: Mining Interclass Characteristics for Improved Metric Learning"
-      #   authors: B. Brattoli*, K. Roth*, B. Ommer
-      #   conference: ICCV, 2019
+      - title: "Power-Law Decay Loss for Large Language Model Finetuning: A Theory Perspective"
+        authors: Jintian Shao*, Yiming Cheng
+        conference: airxiv preprint
 
       # - title: "Improving Spatiotemporal Self-Supervision by Deep Reinforcement Learning"
       #   authors: B. Brattoli*, U. Buechler*, B. Ommer
