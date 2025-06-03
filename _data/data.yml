@@ -189,11 +189,11 @@ publications:
         
       - title: "Towards Analyzing and Understanding the Limitations of VAPO: A Theoretical Perspective"
         authors: Jintian Shao*, Yiming Cheng
-        conference: airxiv preprint
+        conference: arxiv preprint
         
       - title: "Power-Law Decay Loss for Large Language Model Finetuning: A Theory Perspective"
         authors: Jintian Shao*, Yiming Cheng
-        conference: airxiv preprint
+        conference: arxiv preprint
 
       # - title: "Improving Spatiotemporal Self-Supervision by Deep Reinforcement Learning"
       #   authors: B. Brattoli*, U. Buechler*, B. Ommer
