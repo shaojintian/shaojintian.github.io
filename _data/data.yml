@@ -47,11 +47,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      AI phd candidate in the Southern University of Science and Technology of China.
-      Under the supervision of Professor <a href="https://mingkai-zheng.github.io/" target="_blank" rel="nofollow">Mingkai Zheng</a>. My research primarily focuses on the Large Language Models, Efficient Deep Learning, Multimodal Large Language Model.
-      In the field of large language models, my work spans several key areas: optimizing attention mechanism, optimizing cross-entropy like objective function, optimizing reasoning ability for complex downstream tasks like Math Solving, Code Generation.
-      In the field of efficient deep learning, my work spans several key areas: model compression
-      In the field of multimodal large language model, my work spans several key areas: multimodal alignment and fusion, hallucination mitigation
+      - AI phd candidate in the Southern University of Science and Technology of China.
+      - Under the supervision of Professor <a href="https://mingkai-zheng.github.io/" target="_blank" rel="nofollow">Mingkai Zheng</a>. My research primarily focuses on the Large Language Models, Efficient Deep Learning, Multimodal Large Language Model.
+      - In the field of large language models, my work spans several key areas: optimizing attention mechanism, optimizing cross-entropy like objective function, optimizing reasoning ability for complex downstream tasks like Math Solving, Code Generation.
+      - In the field of efficient deep learning, my work spans several key areas: model compression
+      - In the field of multimodal large language model, my work spans several key areas: multimodal alignment and fusion, hallucination mitigation
 # news:
 #     title: News
 #     intro: |
