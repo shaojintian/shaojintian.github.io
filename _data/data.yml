@@ -116,14 +116,14 @@ education:
 
 experiences:
     - role: Research Assistant
-      time: 2025.02 - 2025.04
+      time: 2025.02 - 2025.05
       company: Southern University of Science and Technology of China, Shenzhen
       details: |
           - Under the supervision of Professor <a href="https://mingkai-zheng.github.io/" target="_blank" rel="nofollow">Mingkai Zheng</a>. My research primarily focuses on the Large Language Models, Efficient Deep Learning, Multimodal Large Language Model.
 
     - role: Quant Developer
       time: 2024.01 - 2024.12
-      company: Paretone Capital
+      company: Paretone Capital, Remote Hybrid
       details: |
           - Developing a reliable, high performance, low latency c++ trading system
 
