@@ -197,11 +197,11 @@ publications:
     papers:
       - title: "VQ-logits:Compressing the Output Bottleneck of Large Language Models via Vector Quantized Logits"
         authors: Jintian Shao*, Hongyi Huang, Yiming Cheng, Jiayi Wu, Beiwen Zhang, ZhiYu Wu, You Shan, MingKai Zheng†
-        conference: AAAI26 Under Review , 2025
+        conference: arxiv preprint
       
       - title: "ComplexFormer: Disruptively Advancing Transformer Inference Ability via Head-Specific Complex Vector Attention"
         authors: Jintian Shao*, Hongyi Huang, Yiming Cheng, Jiayi Wu, Beiwen Zhang, You Shan, MingKai Zheng†
-        conference: AAAI26 Under Review, 2025
+        conference: arxiv preprint
         
       - title: "Towards Analyzing and Understanding the Limitations of VAPO: A Theoretical Perspective"
         authors: Jintian Shao*, Yiming Cheng*
