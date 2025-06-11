@@ -47,8 +47,6 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      - AI phd candidate in the Southern University of Science and Technology of China.
-      - Under the supervision of Professor <a href="https://mingkai-zheng.github.io/" target="_blank" rel="nofollow">Mingkai Zheng</a>. My research primarily focuses on the Large Language Models, Efficient Deep Learning, Multimodal Large Language Model.
       - In the field of large language models, my work spans several key areas: optimizing attention mechanism, optimizing cross-entropy like objective function, optimizing reasoning ability for complex downstream tasks like Math Solving, Code Generation.
       - In the field of efficient deep learning, my work spans several key areas: model compression
       - In the field of multimodal large language model, my work spans several key areas: multimodal alignment and fusion, hallucination mitigation
@@ -117,8 +115,26 @@ education:
       
 
 experiences:
+    - role: Research Assistant
+      time: 2025.02 - 2025.04
+      company: Southern University of Science and Technology of China, Shenzhen
+      details: |
+          - Under the supervision of Professor <a href="https://mingkai-zheng.github.io/" target="_blank" rel="nofollow">Mingkai Zheng</a>. My research primarily focuses on the Large Language Models, Efficient Deep Learning, Multimodal Large Language Model.
+
+    - role: Quant Developer
+      time: 2024.01 - 2024.12
+      company: Paretone Capital
+      details: |
+          - Developing a reliable, high performance, low latency c++ trading system
+
+    - role: Algorithm Engineer
+      time: 2023.04 - 2023.12
+      company: Amazon, Beijing
+      details: |
+          - Developing a recalling module of search system which helps to enhance the indicators like AUC, Recall, etc
+
     - role: Algorithm Engineer 
-      time: 2020.10 - 2022.01
+      time: 2020.10 - 2021.12
       company: Tencent, ShenZhen
       details: |
           - Developing a A/B Testing Platform which helps to refine products of PCG(eg: Tencent Vedio, Tencent News, Wesee, etc)
